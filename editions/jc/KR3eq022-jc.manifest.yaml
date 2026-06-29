@@ -1,0 +1,234 @@
+canonical_identifier: bkk:krp/KR3eq022/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq022/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫經溯洄集
+  identifiers:
+    krp: KR3eq022
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq022.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq022_000-jc.yaml, hash: 'sha256:20076b9b60b80bb4064b9b628b71f6f140a094e717e355e10a310460197f4974'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq022_000-jc.markers.yaml, hash: 'sha256:03a33dbaed482f461466391c49ce94fdee830441f0b3dcdf93193818cffd324e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 394
+  label: 神農嘗百草論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d3.h1s1
+    span:
+    - body
+    - 394
+    - 1975
+  label: 亢則害承乃制論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d4.h1s1
+    span:
+    - body
+    - 1975
+    - 5659
+  label: 四氣所傷論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d5.h1s1
+    span:
+    - body
+    - 5659
+    - 9037
+  label: 張仲景傷寒立法考
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d6.h1s1
+    span:
+    - body
+    - 9037
+    - 10191
+  label: 傷寒溫病熱病說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d7.h1s1
+    span:
+    - body
+    - 10191
+    - 12370
+  label: 傷寒三陰病或寒或熱辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d8.h1s1
+    span:
+    - body
+    - 12370
+    - 13171
+  label: 陽虛陰盛陽盛陰虛論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d9.h1s1
+    span:
+    - body
+    - 13171
+    - 15229
+  label: 傷寒三百九十七法辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d10.h1s1
+    span:
+    - body
+    - 15229
+    - 16111
+  label: 傷寒四逆厥辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d11.h1s1
+    span:
+    - body
+    - 16111
+    - 17758
+  label: 嘔吐乾嘔噦咳逆辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d12.h1s1
+    span:
+    - body
+    - 17758
+    - 18709
+  label: 中風辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d13.h1s1
+    span:
+    - body
+    - 18709
+    - 19318
+  label: 中暑中熱辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d14.h1s1
+    span:
+    - body
+    - 19318
+    - 20093
+  label: 積熱沉寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d15.h1s1
+    span:
+    - body
+    - 20093
+    - 21514
+  label: 瀉南方補北方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d16.h1s1
+    span:
+    - body
+    - 21514
+    - 23150
+  label: 五郁論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d17.h1s1
+    span:
+    - body
+    - 23150
+    - 23493
+  label: 二陽病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d18.h1s1
+    span:
+    - body
+    - 23493
+    - 23932
+  label: 煎厥論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d19.h1s1
+    span:
+    - body
+    - 23932
+    - 24578
+  label: 八味丸用澤瀉論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d20.h1s1
+    span:
+    - body
+    - 24578
+    - 25130
+  label: 小便原委論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d21.h1s1
+    span:
+    - body
+    - 25130
+    - 27100
+  label: 內傷余議
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq022_jc_000-d22.h1s1
+    span:
+    - body
+    - 27100
+    - 27733
+  label: 外傷內傷所受經言異同論
+  type: section
+  level: 1
+hash: sha256:a77d85fb1169e7844d461fd30a93a5a100ae1c8cf2f067b103919ea20562ea93
