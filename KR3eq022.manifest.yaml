@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq022_000.yaml, hash: 'sha256:14c51953554854611853cae7552fabb8e6e90ccfaf36845be59ffd996fa5005d'}
+  - {seq: 0, filename: KR3eq022_000.yaml, hash: 'sha256:20076b9b60b80bb4064b9b628b71f6f140a094e717e355e10a310460197f4974'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq022_000.markers.yaml, hash: 'sha256:ae250df3f49019c46d1a6c0f6a0ba24de4dfd381a3a82b4010aedad7e65b67f2'}
+  - {seq: 0, role: markers, filename: assets/KR3eq022_000.markers.yaml, hash: 'sha256:d58b5744e9ed6a7a80866cf147b662b100c79c0773f5211330b9ac7294b551e6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -231,7 +231,4 @@ table_of_contents:
   label: 外傷內傷所受經言異同論
   type: section
   level: 1
-hash: sha256:136676f4d7ca3965876101cbff96e81c1fb014d1793079ed7dec4f7ecb20da06
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4a419e0ace0750c5a4805909980e34a99bac552d65a66b89b31985eb2c569b66
