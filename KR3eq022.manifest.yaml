@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq022/v1
 canonical_location: https://kanripo.org/bkk/KR3eq022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫經溯洄集
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq022_000.yaml, hash: 'sha256:20076b9b60b80bb4064b9b628b71f6f140a094e717e355e10a310460197f4974'}
+  - {seq: 0, filename: KR3eq022_000.yaml, hash: 'sha256:6921ecf7051d87df4131e8bf9f0bf401fa628d9a724bf96b984706ccbf88e17f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq022_000.markers.yaml, hash: 'sha256:d58b5744e9ed6a7a80866cf147b662b100c79c0773f5211330b9ac7294b551e6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq022_000.markers.yaml, hash: 'sha256:ad62ec6c6b34bc7eb8b06d6fb9e96d5393afa4bd642ef1f218a9b023c65b4d89'}
 table_of_contents:
 - ref:
     seq: 0
@@ -231,4 +231,7 @@ table_of_contents:
   label: 外傷內傷所受經言異同論
   type: section
   level: 1
-hash: sha256:4a419e0ace0750c5a4805909980e34a99bac552d65a66b89b31985eb2c569b66
+hash: sha256:1d3c7c04388af77dc4b5ffbe735611fe21e7cc2cf8757d5b43f1d8360eb6a09e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
